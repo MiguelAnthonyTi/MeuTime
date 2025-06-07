@@ -33,5 +33,6 @@ Nesse projeto foi organizado em pacotes , para separar as responsabilidades de c
 
 ## AUTORES ##
 * Miguel Anthony da silva --> RA:125111410238
+* Kayky de Souza Soras --> RA 12510009
 * 
-
+12
