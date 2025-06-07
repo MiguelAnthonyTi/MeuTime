@@ -26,4 +26,8 @@ Nesse projeto foi organizado em pacotes , para separar as responsabilidades de c
 * Abra o terminal
 * Navegue até a pasta **src** do projeto
 * Compile o código Java
-* Execute o programa 
+* Execute o programa
+
+  ## Diagrama de classe ##
+[Diagrama meuTime.drawio.pdf](https://github.com/user-attachments/files/20638566/Diagrama.meuTime.drawio.pdf)
+
