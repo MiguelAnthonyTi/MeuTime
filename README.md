@@ -31,3 +31,7 @@ Nesse projeto foi organizado em pacotes , para separar as responsabilidades de c
   ## Diagrama de classe ##
 [Diagrama meuTime.drawio.pdf](https://github.com/user-attachments/files/20638566/Diagrama.meuTime.drawio.pdf)
 
+## AUTORES ##
+* Miguel Anthony da silva --> RA:125111410238
+* 
+
