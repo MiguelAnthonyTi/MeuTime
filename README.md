@@ -8,11 +8,11 @@ Nesse Projeto você pode fazer as seguintes ações:
 * Buscar um jogador: Procurar por um jogador específico pelo nome
 * Editar os dados de um jogador: Atualizar as informações de um jogador já existente
 
-## Tecnologias Usadas foram:##
+## Tecnologias Usadas foram: ##
 * Java
 * Draw.io
 
-**## Estrutura do Projeto ##**
+## Estrutura do Projeto ##
 Nesse projeto foi organizado em pacotes , para separar as responsabilidades de cada classe
 * meutime.app :Contem a classe main
 * meutime.modelo:Define o que é um Jogador seus atributos e regras
@@ -20,7 +20,7 @@ Nesse projeto foi organizado em pacotes , para separar as responsabilidades de c
 * meutime.persistencia:É responsável por salvar e carregar os dados do arquivo .txt
 * meutime.execoes: Guarda as classes de exceção customizadas do projeto
 
-**## Como executar ##**
+## Como executar ##
 * Para compilar e executar o projeto via linha de comando, você precisará ter o JDK
 * Baixe ou copie os arquivos do projeto para uma pasta no seu computador
 * Abra o terminal
