@@ -24,7 +24,7 @@ Nesse projeto foi organizado em pacotes , para separar as responsabilidades de c
 * Para compilar e executar o projeto via linha de comando, você precisará ter o JDK
 * Baixe ou copie os arquivos do projeto para uma pasta no seu computador
 * Abra o terminal
-* Navegue até a pasta **src** do projeto
+* Navegue até a pasta **SRC** do projeto
 * Compile o código Java
 * Execute o programa
 
